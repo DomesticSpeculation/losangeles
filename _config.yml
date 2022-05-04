@@ -1,12 +1,12 @@
 
 
 # --SITE SETTINGS--
-title: "Barrio Suburbanisms"
+title: "test"
 email: placeholder
-description: Building upon urban studies of public policy and planning's roles in the formation of the barrio, we turn our attention to how suburban forms operate in a multiracial and metropolitan context. This interactive map displays student investigations into how Chicano/a and Latino/a populations have impacted the economic, social, and spatial contours of suburbs in Greater Los Angeles
-baseurl: "/BarrioSuburbanisms" # the subpath of your site, e.g. /blog/
+description: description here
+baseurl: "/losangeles" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-github_repo: https://github.com/UCLAChicanxStudies/BarrioSuburbanisms
+github_repo: https://github.com/DomesticSpeculation/losangeles
 
 # --COPYRIGHT-- (Date generated from last build)
 copyright_name: placeholder
@@ -25,11 +25,11 @@ twitter_username:
 github_username:  
 
 # --MAP SETTINGS--
-map-tileset: 'https://api.mapbox.com/styles/v1/mrovner/ckj8vyqh46kr719pqmzn6gb9y/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoibXJvdm5lciIsImEiOiJja2o4czl3YTQxN25yMnNueTcycGpwczhmIn0.isCatGeyppD7RyIwKJi3Ew'
+map-tileset: 'https://api.mapbox.com/styles/v1/mrovner/cl2rynqwa000016p6s1b11xjx/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoibXJvdm5lciIsImEiOiJja2o4czl3YTQxN25yMnNueTcycGpwczhmIn0.isCatGeyppD7RyIwKJi3Ew'
 map-credits: '<a target="_blank" href="https://github.com/kirschbombe/flaneur">Flâneur</a> | Tiles: Mapbox'
 minZoom: 0
 maxZoom: 20
-setView: '[34.021932, -118.284406], 8'  # set map center point and zoom. See http://leafletjs.com/reference-1.2.0.html for more info.
+setView: '[34.021932, -118.284406], 10'  # set map center point and zoom. See http://leafletjs.com/reference-1.2.0.html for more info.
 marker-grouping: grouped # sets the default clustering action. Options: grouped, single
 
 # Truncates map marker popup on small screens to only display post title
