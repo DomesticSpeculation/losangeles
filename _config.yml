@@ -1,8 +1,8 @@
 
 
 # --SITE SETTINGS--
-title: "test"
-email: placeholder
+title: "Domestic Speculation"
+email: melissapeter@ucla.edu
 description: description here
 baseurl: "/losangeles" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
