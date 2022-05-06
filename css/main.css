@@ -14,9 +14,9 @@ body {
 
 html {
   font-family: 'Lato', sans-serif;
+  color: #ffffff;
   font-weight: 300;
   font-size: 16px;
-  color: #ffffff;
   line-height: 1.5;
 }
 
@@ -99,7 +99,6 @@ p.post-header {
   font-style: italic;
   border-width: 0 0 1px;
   border-style: dotted;
-  color: #ffffff;
   line-height: 17px;
 }
 
@@ -117,7 +116,6 @@ p.byline {
 	font-size: .9em;
 	line-height: 15px;
   margin-top: .3em;
-	color: #ffffff;
 	padding-bottom: .2em;
 	font-style: italic;
 }
@@ -254,20 +252,20 @@ display: inline-block;
         position: absolute;
         left: 0;
         top: 0;
-        height: 60vh;
+        height: 40vh;
         width: 100vw;
     }
     .sidebar {
         position: absolute;
         left: 0;
         top: 40vh;
-        height: 40vh;
+        height: 60vh;
         width: 100vw
     }
 
 	  div.wrapper {
 		    width: 100vw;
-		    height: 20vh;
+		    height: 40vh;
 		    overflow: auto;
 	  }
 
@@ -287,18 +285,18 @@ display: inline-block;
     #map {
         top: 0;
         height: 100vh;
-        width: 60vw;
+        width: 50vw;
         left: 0
     }
 
     .sidebar {
-    	width: 40vw;
+    	width: 50vw;
       position: absolute;
       right: 0;
     }
 
 	  .sub-menu, .menu-button {
-	     right: 40vw;
+	     right: 50vw;
 	  }
 	#choose {
 	bottom: 0;
@@ -306,7 +304,7 @@ display: inline-block;
 
     div.wrapper {
 		   top: 0;
-       width: 40vw;
+       width: 50vw;
        height: 100vh;
 		   overflow: auto;
 	  }
@@ -324,18 +322,18 @@ display: inline-block;
         width: 55vw;
     }
     .sidebar {
-        width: 35vw;
+        width: 45vw;
         right: 0;
     }
     .sub-menu, .menu-button {
-	      right: 35vw;
+	      right: 45vw;
 	  }
 	#choose {
 	bottom: 0;
 	}
     div.wrapper {
 		   left: 0;
-       width: 30vw;
+       width: 55vw;
        height: 100vh;
 		   overflow: auto;
 	  }
@@ -349,7 +347,7 @@ display: inline-block;
       position: absolute;
       left: 0;
       top: 0;
-      height: 60vh;
+      height: 40vh;
       width: 100vw;
   }
   .sidebar {
@@ -368,7 +366,7 @@ display: inline-block;
 
   div.wrapper {
       width: 100vw;
-      height: 30vh;
+      height: 40vh;
       overflow: auto;
   }
 }
