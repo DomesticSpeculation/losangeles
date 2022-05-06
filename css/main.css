@@ -80,7 +80,7 @@ a {
 .sidebar {
 	height:100vh;
 	width:20vw;
-	background-color:#006699;
+	background-color:#000033;
 	position:fixed!important;
 	z-index:1;
 	right:0;
@@ -257,13 +257,13 @@ display: inline-block;
         position: absolute;
         left: 0;
         top: 40vh;
-        height: 60vh;
+        height: 40vh;
         width: 100vw
     }
 
 	  div.wrapper {
 		    width: 100vw;
-		    height: 40vh;
+		    height: 20vh;
 		    overflow: auto;
 	  }
 
@@ -283,18 +283,18 @@ display: inline-block;
     #map {
         top: 0;
         height: 100vh;
-        width: 50vw;
+        width: 60vw;
         left: 0
     }
 
     .sidebar {
-    	width: 50vw;
+    	width: 40vw;
       position: absolute;
       right: 0;
     }
 
 	  .sub-menu, .menu-button {
-	     right: 50vw;
+	     right: 40vw;
 	  }
 	#choose {
 	bottom: 0;
@@ -302,7 +302,7 @@ display: inline-block;
 
     div.wrapper {
 		   top: 0;
-       width: 50vw;
+       width: 40vw;
        height: 100vh;
 		   overflow: auto;
 	  }
@@ -320,18 +320,18 @@ display: inline-block;
         width: 55vw;
     }
     .sidebar {
-        width: 45vw;
+        width: 35vw;
         right: 0;
     }
     .sub-menu, .menu-button {
-	      right: 45vw;
+	      right: 35vw;
 	  }
 	#choose {
 	bottom: 0;
 	}
     div.wrapper {
 		   left: 0;
-       width: 55vw;
+       width: 45vw;
        height: 100vh;
 		   overflow: auto;
 	  }
@@ -376,7 +376,7 @@ display: inline-block;
   font-size: .9em;
   font-style: italic;
   text-align: center;
-  color: #5a5a5a;
+  color: #ffffff;
   padding: 0px 10px;
 }
 
